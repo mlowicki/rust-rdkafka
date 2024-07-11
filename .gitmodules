@@ -1,4 +1,4 @@
 [submodule "rdkafka-sys/librdkafka"]
 	path = rdkafka-sys/librdkafka
 	url = https://github.com/mlowicki/librdkafka
-	branch = mlowicki/multi-batch-producer-requests-test-1
+	branch = joy.zhang/multi-batch-produce-requests
